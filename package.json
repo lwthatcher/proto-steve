@@ -1,0 +1,22 @@
+{
+  "name": "proto-steve",
+  "version": "0.0.1",
+  "description": "Experimental project for creating Minecraft bots using mineflayer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwthatcher/proto-steve.git"
+  },
+  "keywords": [
+    "mineflayer"
+  ],
+  "author": "Law Thatcher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lwthatcher/proto-steve/issues"
+  },
+  "homepage": "https://github.com/lwthatcher/proto-steve#readme"
+}
